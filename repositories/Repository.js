@@ -1,6 +1,6 @@
 import axios from 'axios';
 /*const baseDomain = 'http://45.76.97.89:3000';*/
-const baseDomain = process.env.NODE_ENV === 'production' ? 'https://percented10.herokuapp.com/' : 'http://localhost:1337';
+const baseDomain = process.env.NODE_ENV === 'production' ? 'https://percented10.herokuapp.com' : 'http://localhost:1337';
 const authorization_prefix = 'Bearer ';
 
 export const customHeaders = {
