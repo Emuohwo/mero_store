@@ -3,7 +3,7 @@ import Head from 'next/head';
 
 const StyleSheets = () => (
     <Head>
-        <title>Martfury - React eCommerce Template</title>
+        <title>10percented - No1 online shopping mall in Nigeria</title>
         <link rel="shortcut icon" href="/static/img/favi.png" />
         <link rel="icon" href="/static/img/favi.png" sizes="32x32" />
         <link rel="icon" href="/static/img/favi.png" sizes="192x192" />
@@ -13,8 +13,8 @@ const StyleSheets = () => (
         <meta name="format-detection" content="telephone=no" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="author" content="nouthemes" />
-        <meta name="keywords" content="Martfury, React, eCommerce, Template" />
-        <meta name="description" content="Martfury - React eCommerce Template" />
+        <meta name="keywords" content="10percented, The No1 Shopping Mall in Nigeria, business growth, sell in Nigeria, buy products online" />
+        <meta name="description" content="10percented, The No1 Shopping Mall in Nigeria helping businesses to meet their goals" />
         <link
             href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700&amp;amp;subset=latin-ext"
             rel="stylesheet"

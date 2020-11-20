@@ -29,7 +29,7 @@ class NavigationDefault extends Component {
                         <div className="menu--product-categories">
                             <div className="menu__toggle">
                                 <i className="icon-menu"></i>
-                                <span> Shop by Department</span>
+                                <span> All Categories</span>
                             </div>
                             <div className="menu__content">
                                 <Menu
@@ -47,7 +47,7 @@ class NavigationDefault extends Component {
                         <ul className="navigation__extra">
                             <li>
                                 <Link href="/vendor/become-a-vendor">
-                                    <a>Sell on Martfury</a>
+                                    <a>Sell on 10percented</a>
                                 </Link>
                             </li>
                             <li>
